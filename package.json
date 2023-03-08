@@ -1,0 +1,13 @@
+{
+  "name": "minimal-types",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akky-xxxx/minimal-types.git"
+  },
+  "homepage": "https://github.com/akky-xxxx/minimal-types",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "author": "akky-xxxx <114.s.aki@gmail.com>",
+  "license": "MIT"
+}

@@ -1,0 +1,15 @@
+# general
+.DS_Store
+.cache
+Thumbs.db
+
+# ide 関連
+.idea
+.vscode
+
+# develop 関連
+*.tsbuildinfo
+node_modules
+yarn-error.log*
+.eslintcache
+dist
