@@ -1,11 +1,12 @@
 .*
 commitlint.config.js
-config/**
+config
 cspell.json
-node_modules/**
+docs
+node_modules
 prettier.config.js
 renovate.json
-scripts/**
-spec/**
-src/**
+scripts
+spec
+src
 tsconfig.*
