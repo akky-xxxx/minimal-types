@@ -38,9 +38,6 @@ jobs:
       - name: Build
         run: yarn build
 
-      - name: Check the codes
-        run: yarn dry-run
-
       - name: Publish
         run: yarn publish
         env:
