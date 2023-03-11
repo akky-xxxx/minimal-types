@@ -1,15 +1,15 @@
 {
   "name": "minimal-types",
   "version": "0.0.1",
+  "author": "akky-xxxx <114.s.aki@gmail.com>",
   "repository": {
     "type": "git",
     "url": "https://github.com/akky-xxxx/minimal-types.git"
   },
   "homepage": "https://github.com/akky-xxxx/minimal-types",
+  "license": "MIT",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "author": "akky-xxxx <114.s.aki@gmail.com>",
-  "license": "MIT",
   "scripts": {
     "build": "tsc -p tsconfig.build.json",
     "check-all": "npm-run-all -s fix -p lint spell-check type-check",
