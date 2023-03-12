@@ -4,6 +4,16 @@ The type that I personally would like to see incorporated into Typescript.
 
 and so on.
 
+## Installation
+
+```shell
+# by yarn
+$ yarn add -D minimal-types
+
+# by npm
+$ npm i --save-dev minimal-types
+```
+
 ## Types
 | Type                                               | Description                                                            |
 |----------------------------------------------------|------------------------------------------------------------------------|
@@ -18,3 +28,6 @@ and so on.
 | [FixedLengthArray](./docs/FixedLengthArray.md)     | Define the array that fixed length.                                    |
 | [Overwrite](./docs/Overwrite.md)                   | Overwrite property type.                                               |
 | [StandardizeObject](./docs/StandardizeObject.md)   | Union object type is treat as difference.                              |
+
+## License
+- [MIT](LICENSE)
