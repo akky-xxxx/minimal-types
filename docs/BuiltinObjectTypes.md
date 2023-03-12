@@ -1,3 +1,3 @@
 # BuiltinObjectTypes
 
-Built in Object types
+Built in Object types.

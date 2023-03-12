@@ -1,10 +1,10 @@
 /**
- * Define the constant case
+ * Define the constant case.
  *
  * @remarks
- * As example, use for the satisfies
+ * As example, use for the satisfies.
  *
- * @typeParam S - Base string that is treated constant case
+ * @typeParam S - Base string that is treated constant case.
  *
  * FIXME: want to limit enable characters to alphabet, numeric, underscore
  */

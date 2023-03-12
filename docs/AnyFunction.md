@@ -1,3 +1,3 @@
 # AnyFunction
 
-Use for temporary function or common the function, instead `Function`
+Use for temporary function or common the function, instead `Function`.

@@ -1,8 +1,8 @@
 # ConstantCase
 
-Define the constant case
+Define the constant case.
 
-As example, use for the satisfies
+As example, use for the satisfies.
 
 ## Type parameters
-1. S - Base string that is treated constant case
+1. S - Base string that is treated constant case.
