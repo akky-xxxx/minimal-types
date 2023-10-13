@@ -1,10 +1,10 @@
 import type { CommonObject } from "../CommonObject"
 
 /**
- * Overwrite property type
+ * Overwrite property type.
  *
- * @typeParam B - Object that be overwritten
- * @typeParam O - Object that overwrite B
+ * @typeParam B - Object that be overwritten.
+ * @typeParam O - Object that overwrite `<B>`.
  */
 export type Overwrite<
   B extends CommonObject,

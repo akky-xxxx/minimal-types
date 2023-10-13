@@ -2,7 +2,7 @@
 
 Standardize Object
 
-Union object type is treat as difference
+Union object type is treat as difference.
 
 ## Type parameters
-1. O - Object
+1. O - Object.

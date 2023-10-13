@@ -5,10 +5,10 @@ type One = typeof ONE
 type Two = typeof TWO
 
 /**
- * Determine if X and Y in params are equivalent
+ * Determine if X and Y in params are equivalent.
  *
- * @typeParam X - Valuation target 1
- * @typeParam Y - Valuation target 2
+ * @typeParam X - Valuation target 1.
+ * @typeParam Y - Valuation target 2.
  */
 export type Equal<X, Y> = (<T>() => T extends X ? One : Two) extends <
   T,
